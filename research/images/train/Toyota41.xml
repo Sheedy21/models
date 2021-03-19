@@ -1,0 +1,26 @@
+<annotation>
+  <folder>toyota</folder>
+  <filename>Toyota41</filename>
+  <path>C:\Users\MELISSA\Desktop\cars1\images\train\toyota\Toyota41.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>361</width>
+    <height>139</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Toyota</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>15</ymin>
+      <xmax>353</xmax>
+      <ymax>129</ymax>
+    </bndbox>
+  </object>
+</annotation>
