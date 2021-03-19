@@ -1,0 +1,25 @@
+item {
+  name: "Ford"
+  id: 1
+  display_name: "Ford"
+}
+item {
+  name: "Honda"
+  id: 2
+  display_name: "Honda"
+}
+item {
+  name: "Lamborghini"
+  id: 3
+  display_name: "Lamborghini"
+}
+item {
+  name: "Nissan"
+  id: 4
+  display_name: "Nissan"
+}
+item {
+  name: "Toyota"
+  id: 5
+  display_name: "Toyota"
+}
