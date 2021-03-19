@@ -1,0 +1,26 @@
+<annotation>
+  <folder>nissan</folder>
+  <filename>Nissan20</filename>
+  <path>C:\Users\MELISSA\Desktop\cars1\images\test\nissan\Nissan20.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>299</width>
+    <height>169</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Nissan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>22</ymin>
+      <xmax>268</xmax>
+      <ymax>150</ymax>
+    </bndbox>
+  </object>
+</annotation>
