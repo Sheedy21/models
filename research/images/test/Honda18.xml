@@ -1,0 +1,26 @@
+<annotation>
+  <folder>honda</folder>
+  <filename>Honda18</filename>
+  <path>C:\Users\MELISSA\Desktop\cars\images\test\honda\Honda18.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>312</width>
+    <height>162</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Honda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>11</ymin>
+      <xmax>292</xmax>
+      <ymax>147</ymax>
+    </bndbox>
+  </object>
+</annotation>
