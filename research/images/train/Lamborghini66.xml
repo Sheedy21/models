@@ -1,0 +1,26 @@
+<annotation>
+  <folder>lamborghini</folder>
+  <filename>Lamborghini66</filename>
+  <path>C:\Users\MELISSA\Desktop\cars1\images\train\lamborghini\Lamborghini66.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>100</width>
+    <height>100</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Lamborghini</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>18</ymin>
+      <xmax>99</xmax>
+      <ymax>77</ymax>
+    </bndbox>
+  </object>
+</annotation>
