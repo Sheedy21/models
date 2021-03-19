@@ -1,0 +1,26 @@
+<annotation>
+  <folder>ford</folder>
+  <filename>Ford46</filename>
+  <path>C:\Users\MELISSA\Desktop\cars1\images\train\ford\Ford46.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>259</width>
+    <height>194</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Ford</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>28</ymin>
+      <xmax>251</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+</annotation>
