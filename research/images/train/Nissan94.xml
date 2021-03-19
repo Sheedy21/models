@@ -1,0 +1,26 @@
+<annotation>
+  <folder>nissan</folder>
+  <filename>Nissan94</filename>
+  <path>C:\Users\MELISSA\Desktop\cars1\images\train\nissan\Nissan94.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>275</width>
+    <height>183</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Nissan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>57</xmin>
+      <ymin>52</ymin>
+      <xmax>216</xmax>
+      <ymax>116</ymax>
+    </bndbox>
+  </object>
+</annotation>
