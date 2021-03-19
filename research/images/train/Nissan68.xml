@@ -1,0 +1,26 @@
+<annotation>
+  <folder>nissan</folder>
+  <filename>Nissan68</filename>
+  <path>C:\Users\MELISSA\Desktop\cars1\images\train\nissan\Nissan68.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>168</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Nissan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>27</ymin>
+      <xmax>241</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+</annotation>
